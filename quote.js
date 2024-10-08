@@ -1,31 +1,3 @@
-// const quotes = [
-//     {
-//         quote: "I can't stand that guy he looks like green eggs and ham",
-//         author: "Sullivan James Sherwood",
-//         Image: "./images/sully.png"
-//     },
-//     {
-//         quote: "I saw a mom saying Hawk Tuah to her 5 year old kids",
-//         author: "Ryan Dean Vrobel",
-//         Image: "./images/image.png"
-//     },
-//     {
-//         quote: "Vorp!?",
-//         author: "Collin Chaise Wimberly",
-//         Image: "./images/Column.JPG"
-//     },
-//     {
-//         quote: "The mattress be like: HONK SHOOAH! SLEEP ON THAT THANG!",
-//         author: "Lukah Zion Youngs",
-//         Image: "./images/lukans.JPG"
-//     },
-//     {
-//         quote: "I am stinky and smell of garlic!",
-//         author: "Walt",
-//         Image: "./images/walter.JPG"
-//     }
-// ];
-
 const quotes = [
     {
         text: "I can't stand that guy he looks like green eggs and ham",
